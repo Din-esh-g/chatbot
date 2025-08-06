@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkchatbot"]=self["webpackChunkchatbot"]||[]).push([[594],{603:function(t,n,u){u.r(n),u.d(n,{default:function(){return h}});var a=u(6768);const c={class:"about"};function e(t,n){return(0,a.uX)(),(0,a.CE)("div",c,n[0]||(n[0]=[(0,a.Lk)("h1",null,"This is an about page",-1)]))}var r=u(1241);const s={},o=(0,r.A)(s,[["render",e]]);var h=o}}]);
+//# sourceMappingURL=about.1367ebe3.js.map
